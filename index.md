@@ -23,15 +23,23 @@ Den rigtige, fysiske bog kan stadig købes hos forskellige boghandlere. Det er e
 </div>
 
 <br><br>
+
+<span style="font-weight:bold">
 Forord, 9
-<a href="{{ BASE_PATH }}/assets/ergoonline/009-009 Forord.pdf"><img src="{{ BASE_PATH }}/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+<a href="https://gavstrik.github.io/ergo/assets/ergoonline/009-009 Forord.pdf"><img src="https://gavstrik.github.io/ergo/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+</span>
 
+<span style="font-weight:bold">
 Indledning, 11
+<a href="{{ BASE_PATH }}/assets/ergoonline/011-013 Indledning.pdf"><img src="{{ BASE_PATH }}/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+</span>
 
+  1 De første teorier om verden, 17
+  <a href="{{ BASE_PATH }}/assets/ergoonline/017-053 Kapitel 1.pdf"><img src="{{ BASE_PATH }}/assets/icons16/pdf-icon.png" alt="pdf" /></a>
 
-1   De første teorier om verden .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
+De første teorier om verden, 17
+<a href="{{ BASE_PATH }}/assets/ergoonline/017-021 De foerste teorier om verden.pdf"><img src="{{ BASE_PATH }}/assets/icons16/pdf-icon.png" alt="pdf" /></a>
 
-    De første teorier om verden, 17
     Verden kan forstås, 21
     Sansernes og forstandens tvivlsomme brugbarhed, 25
     Atomer og det tomme rum, 30
