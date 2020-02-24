@@ -1,29 +1,33 @@
 ---
 layout: page
-title: ergo
-tagline: Læs ERGO online her
+title: ERGO - Naturvidenskabens Filosofiske Historie
+tagline: Af Robin Engelhardt og Hans Siggaard Jensen
 description: Presentation site ERGO
 ---
 
-ERGO online
-Online-version af ERGO
+Læs bogen online her under
+[Creative Common Licence](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Først udgivet i 2007 på forlaget Linhardt og Ringhof, har jeg gjort bogen "ERGO - Naturvidenskabens filosofiske historie" tilgængelig på nettet så den bedre kan bruges i undervisningssammenhæng eller til bare at hyggelæse på skærmen.
+### Praktisk info
+<img src="assets/pics/ERGO2-785103.jpg" ALIGN="right" HSPACE="9"/>
+Først udgivet i 2007 på forlaget Linhardt og Ringhof, er bogen "ERGO - Naturvidenskabens filosofiske historie" af Robin Engelhardt og Hans Siggaard Jensen gjort tilgængelig på nettet og til download. Fra indholdfortegnelsen forneden kan hvert enkelt kapitel og underkapitel læses separat som pdf. Hvis du vil samle dit eget udvalg af sider fra bogen, skal du altså bare downloade de respektive kapitler.
 
-Fra indholdfortegnelsen forneden kan hvert enkelt kapitel og underkapitel læses separat som pdf. Hvis du vil samle dit eget udvalg af sider fra bogen, skal du altså bare downloade de respektive kapitler.
+Den rigtige, fysiske bog kan stadig købes hos forskellige boghandlere. Det er en indbunden udgave af høj kvalitet med over 200 illustrationer i farver og trykt på tykt papir. Jeg har også enkelte eksemplarer tilbage, hvis det har interesse. Se kontakt forneden.
 
-Den rigtige, fysiske bog kan stadig købes hos forskellige boghandlere. Det er en indbunden udgave af høj kvalitet med over 200 illustrationer i farver og trykt på tykt papir. Jeg har også enkelte eksemplarer tilbage, hvis det har interesse.
 
-For mere info om udgivelsen generelt, og om hvad anmelderne syntes om bogen, læs videre her.
-____________
+<div><span style="font-weight:bold">
+    <p>ERGO - Naturvidenskabens Filosofiske Historie</p>
+    <p>Robin Engelhardt og Hans Siggaard Jensen</p>
+    <p>456 sider, Linhardt og Ringhof</p>
+    <p>2007, ISBN 9788759528662</p></span>
+</div>
 
-    ERGO - Naturvidenskabens Filosofiske Historie, af Robin Engelhardt og Hans Siggaard Jensen, 456 sider, Linhardt og Ringhof, 2007, ISBN 9788759528662.
+<br><br>
+Forord, 9
+<a href="{{ BASE_PATH }}/assets/ergoonline/forord.pdf"><img src="/assets/icons16/pdf-icon.png" alt="pdf" /></a>
 
-Indhold
+Indledning, 11
 
-      Forord  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .       9
-
-      Indledning .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .   11
 
 1   De første teorier om verden .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  17
 
