@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ergo
-# tagline: Repository for Robin Engelhardt
+tagline: Læs ERGO online her
 description: Presentation site ERGO
 ---
 
