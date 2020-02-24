@@ -5,6 +5,12 @@ tagline: Af Robin Engelhardt og Hans Siggaard Jensen
 description: Presentation site ERGO
 ---
 
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+-->
+</style>
+
 Læs bogen online her under
 [Creative Common Licence](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
@@ -31,16 +37,25 @@ Forord, 9
 
 <span style="font-weight:bold">
 Indledning, 11
-<a href="{{ BASE_PATH }}/assets/ergoonline/011-013 Indledning.pdf"><img src="{{ BASE_PATH }}/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+<a href="https://gavstrik.github.io/ergo/assets/ergoonline/011-013 Indledning.pdf"><img src="https://gavstrik.github.io/ergo/assets/icons16/pdf-icon.png" alt="pdf" /></a>
 </span>
 
-  1 De første teorier om verden, 17
-  <a href="{{ BASE_PATH }}/assets/ergoonline/017-053 Kapitel 1.pdf"><img src="{{ BASE_PATH }}/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+<span style="font-weight:bold">
+Kapitel 1: De første teorier om verden, 17-53
+<a href="https://gavstrik.github.io/ergo/assets/ergoonline/017-053 Kapitel 1.pdf"><img src="https://gavstrik.github.io/ergo/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+</span>
 
+<p class="tab">
 De første teorier om verden, 17
-<a href="{{ BASE_PATH }}/assets/ergoonline/017-021 De foerste teorier om verden.pdf"><img src="{{ BASE_PATH }}/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+<a href="https://gavstrik.github.io/ergo/assets/ergoonline/017-021 De foerste teorier om verden.pdf"><img src="https://gavstrik.github.io/ergo/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+</p>
 
-    Verden kan forstås, 21
+<p class="tab">
+Verden kan forstås, 21
+<a href="https://gavstrik.github.io/ergo/assets/ergoonline/021-024 Verden kan forstaas.pdf"><img src="https://gavstrik.github.io/ergo/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+</p>
+
+
     Sansernes og forstandens tvivlsomme brugbarhed, 25
     Atomer og det tomme rum, 30
     De platoniske sfærer, 33
