@@ -24,7 +24,7 @@ Den rigtige, fysiske bog kan stadig købes hos forskellige boghandlere. Det er e
 
 <br><br>
 Forord, 9
-<a href="{{ BASE_PATH }}/assets/ergoonline/forord.pdf"><img src="/assets/icons16/pdf-icon.png" alt="pdf" /></a>
+<a href="{{ BASE_PATH }}/ergo/assets/ergoonline/forord.pdf"><img src="/assets/icons16/pdf-icon.png" alt="pdf" /></a>
 
 Indledning, 11
 
