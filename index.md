@@ -1,8 +1,8 @@
 ---
 layout: page
-title: homepage
-tagline: Repository for Robin Engelhardt
-description: Presentation site and repository for Robin Engelhardt
+title: ergo
+# tagline: Repository for Robin Engelhardt
+description: Presentation site ERGO
 ---
 
 ERGO online
