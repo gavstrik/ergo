@@ -8,9 +8,9 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Robin Engelhardt
-author :
-  name : Robin Engelhardt
+title : ERGO
+author : Robin Engelhardt
+  name : ERGO
   email : robin.engelhardt@gmail.com
   github : gavstrik
   twitter : robinengelhardt
