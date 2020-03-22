@@ -23,6 +23,7 @@ Den rigtige, fysiske bog kan stadig købes hos enkelte boghandlere. Det er en in
 hele bogen på een gang.
 <br/>
 <br/>
+
 **ERGO - Naturvidenskabens Filosofiske Historie,<br/>
 Robin Engelhardt og Hans Siggaard Jensen,<br/>
 456 sider, Linhardt og Ringhof, 2007, ISBN 9788759528662**<br/>
